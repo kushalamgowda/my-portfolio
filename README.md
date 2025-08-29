@@ -2,7 +2,7 @@ Project: Kushala M — Personal Website
 
 Overview
 
-- A fast, responsive personal portfolio for Kushala M with a dark, high‑contrast design.
+- A fast, responsive personal portfolio for mine with a dark, high‑contrast design.
 - Sections: Hero with background photo and CTAs, About, Skills with image background, Projects, and Contact with email and resume links.
 
 
