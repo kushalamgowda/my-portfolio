@@ -52,9 +52,10 @@ How to Run Locally
 1. Ensure Node.js 18.18+ or 20+ and VS Code.
 2. Create a Next.js app (if you don’t already have one):
 
-1. npx create-next-app@latest personal-website --typescript --app --tailwind --eslint
-2. cd personal-website
-3. npx shadcn@latest init -d
+
+  1. npx create-next-app@latest personal-website --typescript --app --tailwind --eslint
+  2. cd personal-website
+  3. npx shadcn@latest init -d
 
 
 
