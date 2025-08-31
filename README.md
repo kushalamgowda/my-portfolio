@@ -5,6 +5,9 @@ Overview
 - A fast, responsive personal portfolio for mine with a dark, high‑contrast design.
 - Sections: Hero with background photo and CTAs, About, Skills with image background, Projects, and Contact with email and resume links.
 
+<img width="1841" height="968" alt="Screenshot 2025-08-31 233533" src="https://github.com/user-attachments/assets/c3820070-8277-4b40-82b8-e4113e79785d" />
+
+
 
 Key Features
 
